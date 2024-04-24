@@ -52,20 +52,21 @@ function deleteItem(e) {
  PLEASE WRITE A SHORT DESCRIPTION ON WHAT EACH DO:
 
     1 .createElement():
-
+Creates an element node.
     2 .appendChild():
-
+Appends a node (element) as the last child of an element.
     3 .setAttribute():
-
+Sets a new value to an attribute. If the attribute does not exist, it is created first.
     4 .getElementById():
-
+Returns an element with a specified value. Returns null if the element does not exist.
     5 .removeChild():
-
+Removes an element's child.
     6 .addEventListener():
-
+Attaches an event handler to a document.
     7 .innerHTML:
-    
+Sets or returns the HTML content (inner HTML) of an element.
     8 .textContent:
+Sets or returns the text content of the specified node, and all its descendants.
 */
 
 
